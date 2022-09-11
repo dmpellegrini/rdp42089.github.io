@@ -1,0 +1,75 @@
+* {
+  /* outline: solid red; */
+}
+
+body {
+  font-family: sans-serif;
+  margin: 50px;
+}
+
+div {}
+
+.container {
+  /* padding: 200px; */
+}
+
+header {}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+h2 {
+  color: gray;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+main {}
+
+.albumImageGrid {
+  /* outline: solid blue; */
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.websiteImageGrid {
+  /* outline: solid blue; */
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+}
+
+.projects {
+  margin: 10px;
+  height: 420px;
+  width: 420px;
+}
+
+footer {
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  width: 420px; */
+}
