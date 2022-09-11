@@ -85,6 +85,10 @@ footer {
 }
 
 @media screen and (max-width: 1000px) {
+  .container {
+    max-width: 500px;
+  }
+
   header {
     margin: auto;
     max-width: 420px;
