@@ -64,6 +64,7 @@ main {
 
 img {
   margin: 10px;
+  outline: solid gray;
   height: 200px;
   width: 200px;
 }
@@ -87,6 +88,7 @@ footer {
   header {
     margin: auto;
     max-width: 420px;
+    max-height: 100%;
   }
 
   img {
