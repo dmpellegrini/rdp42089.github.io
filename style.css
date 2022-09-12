@@ -101,6 +101,10 @@ footer {
     width: 420px
   }
 
+  .projects {
+    margin: 30px;
+  }
+
   footer {
     margin: auto;
     max-width: 420px;
